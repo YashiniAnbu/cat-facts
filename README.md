@@ -1,4 +1,4 @@
-# Cat Facts (Task 16.3)
+# Cat Facts
 
 ## Description
 An educational single-page application that retrieves and presents random facts about cats at the click of a button.
